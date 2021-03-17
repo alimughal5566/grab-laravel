@@ -1,0 +1,24 @@
+.toggle-handle{
+    background: #fff;
+}
+.customs_bd{
+    background: #001D4A;
+}
+.customs_btn{
+    background-color: #001D4A;
+    border-color: #001D4A;
+}
+.customs-btn-bd{
+    background: #001D4A;
+    border: 1px solid #001D4A;
+}
+
+.btn:hover {
+    background:#001D4A;
+    border: 1px solid #001D4A;
+}
+
+.book-show-table{
+    background: #F1F2F4;
+    width: 200px;
+}

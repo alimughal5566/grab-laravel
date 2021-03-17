@@ -1,0 +1,37 @@
+.toggle-handle{
+    background: #fff;
+}
+.customs_bd{
+    background: #60ba62;
+    /*background: #001D4A;*/
+}
+.customs_btn{
+    background-color: #60ba62;
+    border-color: #60ba62;
+}.customs_btn:hover{
+    background-color: #60ba62 !important;
+    border-color: #60ba62 !important;
+}
+
+.customs-btn-bd{
+    background: #60ba62;
+    border: 1px solid #60ba62;
+}
+
+/*.btn:hover {
+    background: #60ba62;
+    border: 1px solid #60ba62;
+}*/
+.customs-btn-bd :hover{
+    background: #60ba62 !important;
+    border: 1px solid #60ba62 !important;
+}
+.btn-secondary{
+    background: #60ba62 !important;
+    border: 1px solid #60ba62 !important;
+}
+
+.book-show-table{
+    background: #F1F2F4;
+    width: 200px;
+}

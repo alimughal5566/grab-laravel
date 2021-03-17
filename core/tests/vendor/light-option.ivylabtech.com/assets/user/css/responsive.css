@@ -1,0 +1,916 @@
+/*---------------------------------------------------------------------
+    Desktop
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .site-preloader .spinner {
+        margin: 28% auto;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    .master-chef-content {
+        padding: 100px 0 50px;
+    }
+    .opening-schedule {
+        padding: 30px 50px;
+    }
+    .contact-wrap {
+        background-size: 36%;
+    }
+
+}
+
+
+/*---------------------------------------------------------------------
+    Laptop
+----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .site-preloader .spinner {
+        margin: 35% auto;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav .navbar-nav {
+        background-color: #000;
+    }
+    nav.navbar.bootsnav ul.nav > li > a,
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        font-weight: 500;
+        color: #fff
+    }
+    .navbar-brand img {
+        width: 120px;
+        margin: -2px 0 0;
+    }
+    .chef-single {
+        margin: 0 0 50px;
+    }
+    .caption-content h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .caption-content h2 {
+        font-size: 40px;
+        line-height: 50px;
+        margin: -5px 0 0;
+    }
+    .caption-content h3 {
+        margin: 5px 0 0;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .default-btn.large {
+        margin: 30px 0 0;
+    }
+    .default-btn.large a {
+        padding: 8px 20px;
+        margin: 0 10px 0 0;
+        font-size: 14px;
+    }
+    .about-content {
+        margin: 30px 0 0;
+    }
+    .food-menu-area {
+        background-size: 30%;
+    }
+    .chef-area {
+        padding: 55px 0 30px;
+    }
+    .newsletter-area h2 {
+        margin: 5px 0 15px;
+        text-align: center;
+    }
+    .subscrible-form {
+        padding: 0 100px;
+    }
+    .page-title {
+        padding: 100px 0 40px;
+    }
+    .recent-post-img {
+        width: 18%;
+    }
+    .recent-post-content {
+        width: 82%;
+    }
+    .blog-sidebar {
+        margin: 0 0 50px;
+    }
+    .master-chef-content {
+        padding: 20px 0 60px;
+    }
+    .master-chef {
+        background-image: none;
+        padding: 55px 0 0;
+    }
+    .master-chef-img img {
+        margin: 0 auto;
+    }
+    .chefs {
+        padding: 55px 0 30px;
+    }
+    .notfound-wrap {
+        padding: 80px 0 140px;
+    }
+    .notfound-content h2 {
+        font-size: 120px;
+        line-height: 130px;
+    }
+    .notfound-content h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .notfound-content p {
+        font-size: 20px;
+    }
+    .reservation-wrap {
+        padding: 55px 0 80px;
+    }
+    .reservation-form {
+        margin: 0 0 60px;
+    }
+    .food-menu-wrap {
+        background-size: 30%;
+    }
+    .food-menu-list {
+        padding: 50px 50px 10px;
+    }
+    .contact-wrap {
+        background-size: 30%;
+    }
+
+}
+
+
+/*---------------------------------------------------------------------
+    Tablet
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .site-preloader .spinner {
+        margin: 50% auto;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a,
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        font-weight: 500;
+        color: #fff
+    }
+    nav.navbar.bootsnav .navbar-nav {
+        background-color: #000;
+    }
+    .navbar-brand img {
+        width: 120px;
+        margin: -2px 0 0
+    }
+    .chef-single {
+        margin: 0 0 50px;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: -5px 0 0;
+    }
+    .caption-content h3 {
+        margin: 5px 0 0;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .slider.owl-carousel .owl-nav > div {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        padding: 5px 10px;
+    }
+    .default-btn.large {
+        margin: 30px 0 0;
+    }
+    .default-btn.large a {
+        padding: 8px 20px;
+        margin: 0 10px 0 0;
+        font-size: 14px;
+    }
+    .default-btn a {
+        padding: 8px 18px;
+    }
+    .about-area {
+        padding: 60px 0;
+    }
+    .about-content {
+        margin: 30px 0 0;
+    }
+    .default-padding {
+        padding: 35px 0 60px;
+    }
+    .food-menu-area {
+        background-size: 30%;
+    }
+    .chef-area {
+        padding: 35px 0 10px;
+    }
+    .gallery-area .default-btn {
+        margin: 0;
+    }
+    .event-area .default-btn a {
+        margin: 0;
+    }
+    .testimonial-area {
+        padding: 80px 0 120px;
+    }
+    .chef-single img {
+        margin: 0 auto;
+    }
+    .newsletter-area h2 {
+        margin: 5px 0 15px;
+        text-align: center;
+    }
+    .booking-area {
+        padding: 40px 0;
+    }
+    .booking-helpline {
+        margin: 35px 0 0;
+    }
+    .subscrible-form {
+        padding: 0 20px;
+    }
+    .subscrible-form input {
+        margin: 0 0 10px;
+    }
+    .footer-top {
+        padding: 60px 0 70px;
+    }
+    .page-title {
+        padding: 100px 0 30px;
+    }
+    .page-title-content h2 {
+        font-size: 24px;
+        margin: 0 0 5px;
+    }
+    .breadcrumb {
+        padding: 0;
+    }
+    .breadcrumb li a {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .breadcrumb li.active {
+        font-weight: 500;
+    }
+    .blog-wrap {
+        padding: 60px 0 55px;
+    }
+    .blog-post-single {
+        margin: 0 0 30px;
+    }
+    .blog-sidebar {
+        margin: 0 0 50px;
+    }
+    .comment-form {
+        margin: 35px 0 0;
+    }
+    .blog-single-wrap {
+        padding: 60px 0;
+    }
+    .gallery-wrap {
+        padding: 35px 0 50px;
+    }
+    .master-chef-content {
+        padding: 20px 0 40px;
+    }
+    .master-chef {
+        background-image: none;
+        padding: 35px 0 0;
+    }
+    .master-chef-img img {
+        margin: 0 auto;
+    }
+    .chefs {
+        padding: 35px 0 10px;
+    }
+    .events-wrap {
+        padding: 35px 0 20px;
+    }
+    .notfound-wrap {
+        padding: 60px 0 120px;
+    }
+    .notfound-content h2 {
+        font-size: 100px;
+        line-height: 110px;
+    }
+    .notfound-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .notfound-content p {
+        font-size: 18px;
+    }
+    .notfound-content a {
+        padding: 10px 16px
+    }
+    .reservation-wrap {
+        padding: 35px 0 60px;
+        background-image: none;
+    }
+    .reservation-form {
+        margin: 0 0 60px;
+    }
+    .food-menu-wrap {
+        background-image: none;
+        padding: 40px 0 20px;
+    }
+    .food-menu-cat-single.bg,
+    .food-menu-cat-single.bg2 {
+        background-image: none;
+    }
+    .food-menu-list.v2 {
+        padding: 40px 20px 30px;
+    }
+    .food-menu-title h2 {
+        font-size: 24px;
+    }
+    .food-menu-single-list {
+        margin: 0 20px 20px;
+    }
+    .food-menu-list {
+        padding: 30px 20px;
+    }
+    .food-menu-single-list ul li:last-child {
+        border-bottom: 0;
+    }
+    .contact-wrap {
+        background-image: none;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-info {
+        margin: 0 0 20px;
+    }
+
+}
+
+
+/*----------------------------------------------------------------------
+   Mobile
+------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+    .site-preloader .spinner {
+        margin: 60% auto;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a,
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        font-weight: 500;
+        color: #fff
+    }
+    nav.navbar.bootsnav .navbar-nav {
+        background-color: #000;
+    }
+    .navbar-brand img {
+        width: 120px;
+        margin: -2px 0 0
+    }
+    h2 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .chef-single {
+        margin: 0 0 50px;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: -5px 0 0;
+    }
+    .caption-content h3 {
+        margin: 5px 0 0;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .slider.owl-carousel .owl-nav > div {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        padding: 5px 10px;
+    }
+    .default-btn.large {
+        margin: 30px 0 0;
+    }
+    .default-btn.large a {
+        padding: 8px 20px;
+        margin: 0 10px 0 0;
+        font-size: 14px;
+    }
+    .default-btn a {
+        padding: 8px 18px;
+    }
+    .about-area {
+        padding: 60px 0;
+    }
+    .about-content {
+        margin: 30px 0 0;
+    }
+    .default-padding {
+        padding: 35px 0 60px;
+    }
+    .food-menu-area {
+        background-size: 30%;
+    }
+    .food-menu-list {
+        padding: 30px 20px 0;
+    }
+    .food-menu-single-list {
+        margin: 0 0 40px;
+    }
+    .food-menu-single-list ul li {
+        font-size: 14px;
+    }
+    .section-heading {
+        margin: 0 0 20px;
+    }
+    .chef-area {
+        padding: 35px 0 10px;
+    }
+    .gallery-area .default-btn {
+        margin: 0;
+    }
+    .gallery-button button {
+        padding: 4px;
+        margin: 0 0 30px;
+        font-size: 11px;
+    }
+    .event-area .default-btn a {
+        margin: 0;
+    }
+    .event-details h2 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .event-details {
+        padding: 10px 10px 20px;
+    }
+    .event-details p {
+        margin: 0;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .testimonial-area {
+        padding: 80px 0 120px;
+    }
+    .chef-single img {
+        margin: 0 auto;
+    }
+    .newsletter-area h2 {
+        margin: 5px 0 15px;
+        text-align: center;
+    }
+    .booking-area {
+        padding: 40px 0;
+    }
+    .booking-helpline {
+        margin: 35px 0 0;
+    }
+    .subscrible-form {
+        padding: 0 20px;
+    }
+    .subscrible-form input {
+        margin: 0 0 10px;
+    }
+    .blog-details {
+        padding: 0 15px 25px;
+    }
+    .footer-top {
+        padding: 60px 0 70px;
+    }
+    .totop > a {
+        font-size: 20px;
+        padding: 4px 5px;
+    }
+    .page-title {
+        padding: 100px 0 30px;
+    }
+    .page-title-content h2 {
+        font-size: 24px;
+        margin: 0 0 5px;
+    }
+    .breadcrumb {
+        padding: 0;
+    }
+    .breadcrumb li a {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .breadcrumb li.active {
+        font-weight: 500;
+    }
+    .blog-wrap {
+        padding: 60px 0 55px;
+    }
+    .blog-post-single {
+        margin: 0 0 30px;
+    }
+    .blog-sidebar {
+        margin: 0 0 40px;
+    }
+    .comment-form {
+        margin: 35px 0 0;
+    }
+    .blog-single-wrap {
+        padding: 60px 0;
+    }
+    .gallery-wrap {
+        padding: 35px 0 50px;
+    }
+    .master-chef-content {
+        padding: 20px 0 40px;
+    }
+    .master-chef {
+        background-image: none;
+        padding: 35px 0 0;
+    }
+    .master-chef-img img {
+        margin: 0 auto;
+    }
+    .chefs {
+        padding: 35px 0 10px;
+    }
+    .events-wrap {
+        padding: 35px 0 20px;
+    }
+    .notfound-wrap {
+        padding: 50px 0 110px;
+    }
+    .notfound-content h2 {
+        font-size: 80px;
+        line-height: 90px;
+    }
+    .notfound-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .notfound-content p {
+        font-size: 16px;
+    }
+    .notfound-content a {
+        padding: 10px 16px
+    }
+    .reservation-wrap {
+        padding: 35px 0 60px;
+        background-image: none;
+    }
+    .reservation-form {
+        margin: 0 0 60px;
+    }
+    .food-menu-wrap {
+        background-image: none;
+        padding: 40px 0 20px;
+    }
+    .food-menu-cat-single.bg,
+    .food-menu-cat-single.bg2 {
+        background-image: none;
+    }
+    .food-menu-list.v2 {
+        padding: 40px 20px 30px;
+    }
+    .food-menu-title h2 {
+        font-size: 24px;
+    }
+    .food-menu-single-list {
+        margin: 0 0 20px;
+    }
+    .food-menu-list {
+        padding: 30px 20px;
+    }
+    .food-menu-single-list ul li:last-child {
+        border-bottom: 0;
+    }
+    .counter-single {
+        margin: 0 0 40px;
+    }
+    .counter-single h2 {
+        margin: 10px 0 -10px;
+    }
+    .about-wrap {
+        padding: 60px 0 0;
+    }
+    .counter {
+        padding: 60px 0 15px;
+        margin: 35px 0 0;
+    }
+    .restaurant-gallery {
+        padding: 40px 0 100px;
+    }
+    .contact-wrap {
+        background-image: none;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-info {
+        margin: 0 0 10px;
+        padding: 30px 0 0;
+
+    }
+    .contact-content {
+        padding: 0 15px 30px;
+    }
+}
+
+
+/*----------------------------------------------------------------------
+    Small Screen Mobile
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+    .site-preloader .spinner {
+        margin: 60% auto;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        background-color: transparent;
+        color: #fff;
+    }
+    nav.navbar.bootsnav ul.nav > li > a,
+    nav.navbar.bootsnav ul.nav li.dropdown ul.dropdown-menu > li > a {
+        font-weight: 500;
+        color: #fff
+    }
+    nav.navbar.bootsnav .navbar-nav {
+        background-color: #000;
+    }
+    .navbar-brand img {
+        width: 120px;
+        margin: -2px 0 0
+    }
+    h2 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .chef-single {
+        margin: 0 0 50px;
+    }
+    .caption-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .caption-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: -5px 0 0;
+    }
+    .caption-content h3 {
+        margin: 5px 0 0;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .slider.owl-carousel .owl-nav > div {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        padding: 5px 10px;
+    }
+    .default-btn.large {
+        margin: 30px 0 0;
+    }
+    .default-btn.large a {
+        padding: 8px 20px;
+        margin: 0 10px 0 0;
+        font-size: 14px;
+    }
+    .default-btn a {
+        padding: 8px 18px;
+    }
+    .about-area {
+        padding: 60px 0;
+    }
+    .about-content {
+        margin: 30px 0 0;
+    }
+    .default-padding {
+        padding: 35px 0 60px;
+    }
+    .food-menu-area {
+        background-size: 30%;
+    }
+    .food-menu-list {
+        padding: 30px 20px 0;
+    }
+    .food-menu-single-list {
+        margin: 0 0 40px;
+    }
+    .food-menu-single-list ul li {
+        font-size: 14px;
+    }
+    .section-heading {
+        margin: 0 0 20px;
+    }
+    .chef-area {
+        padding: 35px 0 10px;
+    }
+    .gallery-area .default-btn {
+        margin: 0;
+    }
+    .gallery-button button {
+        padding: 4px;
+        margin: 0 0 30px;
+        font-size: 11px;
+    }
+    .event-area .default-btn a {
+        margin: 0;
+    }
+    .event-details h2 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .event-details {
+        padding: 10px 10px 20px;
+    }
+    .event-details p {
+        margin: 0;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .testimonial-area {
+        padding: 80px 0 120px;
+    }
+    .chef-single img {
+        margin: 0 auto;
+    }
+    .newsletter-area h2 {
+        margin: 5px 0 15px;
+        text-align: center;
+    }
+    .booking-area {
+        padding: 40px 0;
+    }
+    .booking-helpline {
+        margin: 35px 0 0;
+    }
+    .subscrible-form {
+        padding: 0 20px;
+    }
+    .subscrible-form input {
+        margin: 0 0 10px;
+    }
+    .blog-details {
+        padding: 0 15px 25px;
+    }
+    .footer-top {
+        padding: 60px 0 70px;
+    }
+    .totop > a {
+        font-size: 20px;
+        padding: 4px 5px;
+    }
+    .page-title {
+        padding: 100px 0 30px;
+    }
+    .page-title-content h2 {
+        font-size: 24px;
+        margin: 0 0 5px;
+    }
+    .breadcrumb {
+        padding: 0;
+    }
+    .breadcrumb li a {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .breadcrumb li.active {
+        font-weight: 500;
+    }
+    .blog-wrap {
+        padding: 60px 0 55px;
+    }
+    .blog-post-single {
+        margin: 0 0 30px;
+    }
+    .blog-sidebar {
+        margin: 0 0 40px;
+        padding: 10px 15px 40px
+    }
+    .comment-form {
+        margin: 35px 0 0;
+    }
+    .blog-single-wrap {
+        padding: 60px 0;
+    }
+    .media-body p a {
+        margin-right: 10px;
+        font-size: 12px;
+    }
+    .gallery-wrap {
+        padding: 35px 0 50px;
+    }
+    .master-chef-content {
+        padding: 20px 0 40px;
+    }
+    .master-chef {
+        background-image: none;
+        padding: 35px 0 0;
+    }
+    .master-chef-img img {
+        margin: 0 auto;
+    }
+    .chefs {
+        padding: 35px 0 10px;
+    }
+    .events-wrap {
+        padding: 35px 0 20px;
+    }
+    .notfound-wrap {
+        padding: 50px 0 110px;
+    }
+    .notfound-content h2 {
+        font-size: 80px;
+        line-height: 90px;
+    }
+    .notfound-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .notfound-content p {
+        font-size: 16px;
+    }
+    .notfound-content a {
+        padding: 10px 16px
+    }
+    .reservation-wrap {
+        padding: 35px 0 60px;
+        background-image: none;
+    }
+    .reservation-form {
+        margin: 0 0 60px;
+    }
+    .food-menu-wrap {
+        background-image: none;
+        padding: 40px 0 20px;
+    }
+    .food-menu-cat-single.bg,
+    .food-menu-cat-single.bg2 {
+        background-image: none;
+    }
+    .food-menu-list.v2 {
+        padding: 40px 20px 30px;
+    }
+    .food-menu-title h2 {
+        font-size: 24px;
+    }
+    .food-menu-single-list {
+        margin: 0 0 20px;
+    }
+    .food-menu-list {
+        padding: 30px 20px;
+    }
+    .food-menu-single-list ul li:last-child {
+        border-bottom: 0;
+    }
+    .counter-single {
+        margin: 0 0 40px;
+    }
+    .counter-single h2 {
+        margin: 10px 0 -10px;
+    }
+    .about-wrap {
+        padding: 60px 0 0;
+    }
+    .counter {
+        padding: 60px 0 15px;
+        margin: 35px 0 0;
+    }
+    .restaurant-gallery {
+        padding: 40px 0 100px;
+    }
+    .contact-wrap {
+        background-image: none;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-info {
+        margin: 0 0 10px;
+        padding: 30px 0 0;
+
+    }
+    .contact-content {
+        padding: 0 15px 30px;
+    }
+}

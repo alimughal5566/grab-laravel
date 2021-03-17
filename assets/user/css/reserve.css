@@ -1,0 +1,104 @@
+/*=======================================================================================
+    Color Eleven
+========================================================================================*/
+
+/*  Main Color
+-----------------------------------------------------------------------------------------*/
+
+.color-eleven .color-main,
+.color-eleven nav.navbar.bootsnav ul.nav > li > a:hover,
+.color-eleven nav.navbar li.dropdown ul.dropdown-menu li a:hover,
+.color-eleven .default-btn.large a:hover,
+.color-eleven .gallery-button button,
+.color-eleven .chef-social ul li a:hover,
+.color-eleven .chef-info h4,
+.color-eleven .counter-single i,
+.color-eleven .footer-social li a,
+.color-eleven .breadcrumb li a,
+.color-eleven .post-meta h2 a,
+.color-eleven .post-meta.single h2,
+.color-eleven .post-meta p a:hover,
+.color-eleven .post-content a,
+.color-eleven .category-widget ul li a:hover,
+.color-eleven .notfound-content h2,
+.color-eleven .media-body p a:hover {
+    color: #FF542E;
+}
+
+/*  Border Color
+-----------------------------------------------------------------------------------------*/
+
+.color-eleven nav.navbar.bootsnav li.dropdown ul.dropdown-menu,
+.color-eleven .slider.owl-carousel .owl-dots .owl-dot.active,
+.color-eleven .gallery-button button,
+.color-eleven .gallery-overlay a:hover,
+.color-eleven .testi-carousel .owl-dots .owl-dot.active,
+.color-eleven .gallery-carousel .owl-dots .owl-dot.active,
+.color-eleven .gallery-carousel .owl-dots .owl-dot,
+.color-eleven .booking-form input:focus,
+.color-eleven .footer-social li a,
+.color-eleven .pagination li.active a,
+.color-eleven .pagination li.active a:hover,
+.color-eleven .pagination li a:hover {
+    border-color: #FF542E;
+}
+
+/*  Background Color
+-----------------------------------------------------------------------------------------*/
+
+.color-eleven .default-btn a,
+.color-eleven .event-details,
+.color-eleven .slider.owl-carousel .owl-nav > div:hover,
+.color-eleven .site-preloader,
+.color-eleven .slider.owl-carousel .owl-dots .owl-dot.active,
+.color-eleven .gallery-button button.active,
+.color-eleven .gallery-button button:hover,
+.color-eleven .gallery-overlay a:hover,
+.color-eleven .testi-carousel .owl-dots .owl-dot.active,
+.color-eleven .gallery-carousel .owl-dots .owl-dot.active,
+.color-eleven .chef-social,
+.color-eleven .newsletter-area,
+.color-eleven .booking-form button,
+.color-eleven .totop,
+.color-eleven .footer-social li a:hover,
+.color-eleven .totop > a,
+.color-eleven .opening-schedule,
+.color-eleven .reservation-form button,
+.color-eleven .pagination li.active a,
+.color-eleven .pagination li.active a:hover,
+.color-eleven .pagination li a:hover,
+.color-eleven .tag-widget li a,
+.color-eleven .comment-form button,
+.color-eleven .notfound-content a,
+.color-eleven .contact-form button {
+    background-color: #FF542E;
+}
+
+/*  White Color
+-----------------------------------------------------------------------------------------*/
+
+.color-eleven .default-btn a,
+.color-eleven .gallery-button button.active,
+.color-eleven .gallery-button button:hover,
+.color-eleven .booking-form button,
+.color-eleven .footer-social li a:hover,
+.color-eleven .totop > a,
+.color-eleven .reservation-form button,
+.color-eleven .pagination li.active a,
+.color-eleven .pagination li.active a:hover,
+.color-eleven .pagination li a:hover,
+.color-eleven .tag-widget li a,
+.color-eleven .notfound-content a,
+.color-eleven .comment-form button,
+.color-eleven .contact-form button,
+.color-eleven .footer-social li a:hover {
+    color: #fff;
+}
+
+/*  White Background Color
+-----------------------------------------------------------------------------------------*/
+
+.color-eleven .chef-social ul li a:hover,
+.color-eleven .default-btn.large a:hover {
+    background-color: #fff;
+}
